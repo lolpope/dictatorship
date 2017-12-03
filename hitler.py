@@ -1,1 +1,2 @@
-print ("hitler did nothing wrong")
+while True:
+    print ("hitler did nothing wrong")
