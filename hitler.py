@@ -1,0 +1,1 @@
+print ("hitler did nothing wrong")
